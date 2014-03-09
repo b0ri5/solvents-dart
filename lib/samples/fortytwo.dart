@@ -1,3 +1,3 @@
 library fortytwo;
 
-int  fortytwo() => 42;
+int fortytwo() => 42;
