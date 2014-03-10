@@ -26,7 +26,7 @@ IntFunction typedefReturnsFortyTwoFunction() {
 
 class FortyTwo {
   final int value;
-  const FortyTwo({this.value : 42});
+  const FortyTwo({this.value: 42});
   FortyTwo.named(): this(42);
 
   int fortytwo() => 42;
